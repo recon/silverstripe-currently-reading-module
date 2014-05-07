@@ -7,7 +7,7 @@ This is a basic module used to display one or multiple books in the front-end of
 - Cover
 - Auhor(s)
 
-![Front-end View](http://savedonthe.net/image/2025/SilverstripeCurrentlyReading1.jpg)
+[Front-end view example](http://savedonthe.net/image/2025/SilverstripeCurrentlyReading1.jpg)
 
 
 The admin panel features a lookup buton which can be used to auto-fill all the fields using only the ISBN-13 code. The lookup is performed over the following API's:
